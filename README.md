@@ -17,11 +17,11 @@ How i look like: ![Ilja's face](https://sun9-60.userapi.com/impf/c853528/v853528
 
 ## Valodu prasmes:
 
-***Valoda***    | ***Prasmas līmenis***
-------------    | ---------------------
-1. Krievu. val. |       Dzimtā
-2. Angļ. val.   | Labas zināšanas
-3. Latv. val    | Labas zināšanas
+|***Valoda***    | ***Prasmas līmenis***|
+|------------    | ---------------------|
+|1. Krievu. val. |       Dzimtā         |
+|2. Angļ. val.   | Labas zināšanas      |
+|3. Latv. val    | Labas zināšanas      |
 
 ## Sasniegumi:
 
