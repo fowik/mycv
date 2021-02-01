@@ -7,7 +7,7 @@
 #### Tel.nr.: 28646683
 #### E-pasts: ilarimsa937@gmail.com
 
-Format: ![Ilja's face](https://sun9-60.userapi.com/impf/c853528/v853528821/155552/JsSVjgkxSGQ.jpg?size=1620x2160&quality=96&proxy=1&sign=f6a4ebf8b1a1441c41017e60755d450b&type=album)
+My face: ![Ilja's face](https://sun9-60.userapi.com/impf/c853528/v853528821/155552/JsSVjgkxSGQ.jpg?size=1620x2160&quality=96&proxy=1&sign=f6a4ebf8b1a1441c41017e60755d450b&type=album)
 
 ## Izglitība
 
@@ -17,9 +17,10 @@ Format: ![Ilja's face](https://sun9-60.userapi.com/impf/c853528/v853528821/15555
 
 ## Valodu prasmes:
 
-#### Dzimtā valoda – Krievu valoda
-#### Angļu valoda – sapratne (labi), runāšanā (labi), rakstīšanā (ļoti labi), lasīšanā (ļoti labi)
-#### Latviešu valoda - sapratne (labi), runāšanā (labi), rakstīšanā (labi), lasīšanā (labi)
+
+1. Dzimtā valoda – Krievu valoda
+2. Angļu valoda – sapratne (labi), runāšanā (labi), rakstīšanā (ļoti labi), lasīšanā (ļoti labi)
+3. Latviešu valoda - sapratne (labi), runāšanā (labi), rakstīšanā (labi), lasīšanā (labi)
 
 ## Sasniegumi:
 
