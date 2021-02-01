@@ -8,7 +8,7 @@
 * E-pasts: ilarimsa937@gmail.com
 
 
-Fotogrāfija: 
+* Fotogrāfija: 
 ![Ilja's face](https://sun9-50.userapi.com/impf/yKe5H91M1q1YDm_rdz2BKF3KisXYxXwEurbISA/raTAnYsIxWI.jpg?size=270x269&quality=96&proxy=1&sign=0900826233ec4c6ee25f45c839792e46&type=album)
 
 ## Izglitība
