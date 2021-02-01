@@ -7,13 +7,8 @@
 * Tel.nr.: 28646683
 * E-pasts: ilarimsa937@gmail.com
 
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
 
-How i look like: ![Ilja's face](https://sun9-40.userapi.com/impf/twcUQ96321j4scfvww1hInMmA0i5f0WJbYKdDg/2ev0Vtwcm28.jpg?size=300x300&quality=96&proxy=1&sign=30621c0061cd0d7c5a20edd5fd60ee38&type=album)
+Fotogrāfija : ![Ilja's face](https://sun9-40.userapi.com/impf/twcUQ96321j4scfvww1hInMmA0i5f0WJbYKdDg/2ev0Vtwcm28.jpg?size=300x300&quality=96&proxy=1&sign=30621c0061cd0d7c5a20edd5fd60ee38&type=album)
 
 ## Izglitība
 
@@ -23,7 +18,7 @@ How i look like: ![Ilja's face](https://sun9-40.userapi.com/impf/twcUQ96321j4scf
 
 ## Valodu prasmes:
 
-|***Valoda***    | ***Prasmas līmenis***|
+|**Valoda**      | **Prasmas līmenis**|
 |:---            |                  ---:|
 |1. Krievu. val. |       Dzimtā         |
 |2. Angļ. val.   | Labas zināšanas      |
@@ -33,10 +28,15 @@ How i look like: ![Ilja's face](https://sun9-40.userapi.com/impf/twcUQ96321j4scf
 
 * 
 
+## Pieredze programmēšanā:
+
+1. HTML; 
+2. JavaScript; 
+3. PHP;
+4. Phyton.
+
 ## Hobiji:
 
 * Basketbols.
 
-## Pieredze programmēšanā:
 
-* Esmu pragrammēji HTML, JavaScript, PHP.
