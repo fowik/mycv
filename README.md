@@ -1,4 +1,4 @@
-# CV
+#           CV
 
 
 ## Ilja Rimša
@@ -26,7 +26,9 @@
 
 ## Hobiji
 
+#### Basketbols.
 
 
-## Pieredze programmēšanā
+## Pieredze programmēšanā:
 
+#### Esmu pragrammēji HTML, JavaScript, PHP.
