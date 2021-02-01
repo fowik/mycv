@@ -7,7 +7,13 @@
 * Tel.nr.: 28646683
 * E-pasts: ilarimsa937@gmail.com
 
-How i look like: ![Ilja's face](https://sun9-60.userapi.com/impf/c853528/v853528821/155552/JsSVjgkxSGQ.jpg?size=1620x2160&quality=96&proxy=1&sign=f6a4ebf8b1a1441c41017e60755d450b&type=album)
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+
+How i look like: ![Ilja's face](https://sun9-40.userapi.com/impf/twcUQ96321j4scfvww1hInMmA0i5f0WJbYKdDg/2ev0Vtwcm28.jpg?size=300x300&quality=96&proxy=1&sign=30621c0061cd0d7c5a20edd5fd60ee38&type=album)
 
 ## Izglitība
 
@@ -18,14 +24,14 @@ How i look like: ![Ilja's face](https://sun9-60.userapi.com/impf/c853528/v853528
 ## Valodu prasmes:
 
 |***Valoda***    | ***Prasmas līmenis***|
-|------------    | ---------------------|
+|:---            |                  ---:|
 |1. Krievu. val. |       Dzimtā         |
 |2. Angļ. val.   | Labas zināšanas      |
 |3. Latv. val    | Labas zināšanas      |
 
 ## Sasniegumi:
 
-####
+* 
 
 ## Hobiji:
 
