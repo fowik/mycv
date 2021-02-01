@@ -1,4 +1,4 @@
-# text-align-last:center; CV
+#  <p align=center> CV <p/>
 
 ## Ilja Rimša
 
@@ -18,7 +18,7 @@ Fotogrāfija : ![Ilja's face](https://sun9-50.userapi.com/impf/yKe5H91M1q1YDm_rd
 
 ## Valodu prasmes:
 
-|**Valoda**      | **Prasmas līmenis**|
+|**Valoda**      | **Prasmas līmenis**  |
 |:---            |                  ---:|
 |1. Krievu. val. |       Dzimtā         |
 |2. Angļ. val.   | Labas zināšanas      |
